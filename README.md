@@ -1,16 +1,84 @@
-# React + Vite
+# React Profile Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive profile card built using React and Vite. It features a dark glassmorphism design, smooth animations, social media links, skills, and an interactive follow button.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Modern glassmorphism UI
+- Responsive design for different screen sizes
+- Animated profile card and hover effects
+- Profile initials avatar
+- Skills section
+- Interactive Follow button
+- Social media links
+- Built with React and Vite
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Lucide React icons (if used in the project)
 
-## Expanding the Oxlint configuration
+## 📸 Project Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Run the project locally to view the profile card in your browser.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Install Node.js on your computer before running the project.
+
+### Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/Dinesh-Ganishetty/react-profile-card.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd react-profile-card
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## 📦 Build for Production
+
+Run the following command to create a production build:
+
+```bash
+npm run build
+```
+
+## 👨‍💻 Developer
+
+**Ganishetty Dinesh**
+
+- GitHub: [Dinesh-Ganishetty](https://github.com/Dinesh-Ganishetty)
+- LinkedIn: [Ganishetty Dinesh](https://www.linkedin.com/in/ganishetty-dinesh-553152385/)
+
+## 🎯 Project Purpose
+
+This project was developed as part of my frontend development learning and internship task to practice React components, CSS styling, responsive design, and basic interactivity.
+
+## 📄 License
+
+This project is open source and available for learning and educational purposes.
